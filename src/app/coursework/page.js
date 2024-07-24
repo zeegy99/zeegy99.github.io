@@ -52,6 +52,16 @@ export default function Coursework() {
 							</span>
 							)
 						</li>
+
+						<li>
+							Analysis (
+							<span className="cursor-pointer text-blue-500 hover:text-blue-400">
+								<a href="/notes/test.pdf">
+									Notes
+								</a>
+							</span>
+							)
+						</li>
 					</ul>
 				</div>
 			</div>

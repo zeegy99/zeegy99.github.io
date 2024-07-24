@@ -26,6 +26,25 @@ export default function Miscellaneous() {
 						</Link>
 					</div>
 				</div>
+				<div className="fade-in">
+					<span className="text-lg font-medium">TFT ACCOUNT:</span>
+					<ul className="list-disc pl-6">
+						<li>
+							Student: CRITICAL #2454 RANK: BRONZ 2(
+							<span className="cursor-pointer text-blue-500 hover:text-blue-400">
+								<a href="https://tactics.tools/player/na/Critical/2454" target="_blank" rel="noopener noreferrer">
+                                              PROFESSIONAL COACH
+                                            </a>
+							</span>
+							/
+							<span className="cursor-pointer text-blue-500 hover:text-blue-400">
+								<a href="/">solutions</a>
+							</span>
+							)
+						</li>
+					</ul>
+				</div>
+				<div className="fade-in"></div>
 			</div>
 		</div>
 	);
