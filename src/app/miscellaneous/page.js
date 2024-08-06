@@ -27,19 +27,62 @@ export default function Miscellaneous() {
 					</div>
 				</div>
 				<div className="fade-in">
-					<span className="text-lg font-medium">TFT ACCOUNT:</span>
+					<span className="text-lg font-medium">TFT:</span>
 					<ul className="list-disc pl-6">
-						<li>
-							Student: CRITICAL #2454 RANK: BRONZ 2(
+
+					<li>
+						My TFT Challenger Accounts:  (
 							<span className="cursor-pointer text-blue-500 hover:text-blue-400">
-								<a href="https://tactics.tools/player/na/Critical/2454" target="_blank" rel="noopener noreferrer">
-                                              PROFESSIONAL COACH
+								<a href="https://lolchess.gg/profile/na/Ttv%20Zeegy99-NA1/set11" target="_blank" rel="noopener noreferrer">
+                                              Challenger Set 6.5 Acct
+                                            </a>
+							</span>
+							/
+							<span className="cursor-pointer text-blue-500 hover:text-blue-400">
+								<a href="https://lolchess.gg/profile/na/Zeegyboogydoog-NA1/set11">Zeegyboogydoog Account</a>
+							</span>
+							)
+						</li>
+
+						<span className="text-lg font-medium">Students (TFT) </span>
+						<ul className="list-disc pl-6"></ul>
+						<li>
+
+
+							Student: Andrew RANK: Masters(
+							<span className="cursor-pointer text-blue-500 hover:text-blue-400">
+								<a href="https://tactics.tools/player/na/0pp0rtunities" target="_blank" rel="noopener noreferrer">
+                                              
                                             </a>
 							</span>
 							/
 							<span className="cursor-pointer text-blue-500 hover:text-blue-400">
 								<a href="/">solutions</a>
 							</span>
+							)
+						</li>
+
+						<li>
+							Student: FOBERT THE MUNDO ABUSER (
+							<span className="cursor-pointer text-blue-500 hover:text-blue-400">
+								<a href="https://www.op.gg/summoners/na/sAigroeg-NA1" target="_blank" rel="noopener noreferrer">
+                                              He can't carry spandan
+                                            </a>
+							</span>
+							
+							
+							)
+						</li>
+
+						<li>
+							Student: Whatever27 (
+							<span className="cursor-pointer text-blue-500 hover:text-blue-400">
+								<a href="https://www.op.gg/summoners/na/sAigroeg-NA1" target="_blank" rel="noopener noreferrer">
+                                              The goat of chess
+                                            </a>
+							</span>
+							
+							
 							)
 						</li>
 					</ul>

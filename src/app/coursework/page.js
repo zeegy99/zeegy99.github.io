@@ -28,16 +28,30 @@ export default function Coursework() {
 					<span className="text-lg font-medium">Textbooks:</span>
 					<ul className="list-disc pl-6">
 						<li>
-							Text book name and author (
+							Analysis by Ross (
 							<span className="cursor-pointer text-blue-500 hover:text-blue-400">
-								<a href="/">notes</a>
+								<a href="/notes/Analysis_Notes.pdf">notes</a>
 							</span>
 							/
 							<span className="cursor-pointer text-blue-500 hover:text-blue-400">
-								<a href="/">solutions</a>
+								<a href="Analysis_hw.pdf">homework</a>
 							</span>
 							)
 						</li>
+
+						<li>
+							Stochastic Processes II by Shreeve (
+							<span className="cursor-pointer text-blue-500 hover:text-blue-400">
+								<a href="/notes/Shreeve_Notes.pdf">notes</a>
+							</span>
+							/
+							<span className="cursor-pointer text-blue-500 hover:text-blue-400">
+								<a href="\">homework</a>
+							</span>
+							)
+						</li>
+
+		
 					</ul>
 				</div>
 				<div className="fade-in">
@@ -54,6 +68,16 @@ export default function Coursework() {
 						</li>
 
 						<li>
+							SDE's + Applications (
+							<span className="cursor-pointer text-blue-500 hover:text-blue-400">
+								<a href="/presentations/Ito.pdf">
+									slides
+								</a>
+							</span>
+							)
+						</li>
+
+						<li>
 							Analysis (
 							<span className="cursor-pointer text-blue-500 hover:text-blue-400">
 								<a href="/notes/test.pdf">
@@ -62,6 +86,10 @@ export default function Coursework() {
 							</span>
 							)
 						</li>
+
+
+
+						
 					</ul>
 				</div>
 			</div>

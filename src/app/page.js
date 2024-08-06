@@ -44,8 +44,7 @@ export default function Home() {
 					</div>
 				</div>
 				<div className="text-md fade-in">
-					Hello! I am a TFT Challenger player looking to get rich in
-					quant and marry a hot k-pop wife.
+					Hello! I'm Fred, I'm a studying math and finance. Future TFT Worlds Winner. 
 					<br />
 					Email:
 					<span
