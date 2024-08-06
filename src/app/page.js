@@ -44,7 +44,7 @@ export default function Home() {
 					</div>
 				</div>
 				<div className="text-md fade-in">
-					Hello! I'm Fred, I'm a studying math and finance. Future TFT Worlds Winner. Tester
+					Hello! Im studying math and finance. Future TFT Worlds Winner. Tester
 					<br />
 					Email:
 					<span

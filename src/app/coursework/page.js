@@ -68,7 +68,7 @@ export default function Coursework() {
 						</li>
 
 						<li>
-							SDE's + Applications (
+							SDE&apos;s + Applications (
 							<span className="cursor-pointer text-blue-500 hover:text-blue-400">
 								<a href="/presentations/Ito.pdf">
 									slides

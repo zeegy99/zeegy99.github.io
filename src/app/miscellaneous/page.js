@@ -66,7 +66,7 @@ export default function Miscellaneous() {
 							Student: FOBERT THE MUNDO ABUSER (
 							<span className="cursor-pointer text-blue-500 hover:text-blue-400">
 								<a href="https://www.op.gg/summoners/na/sAigroeg-NA1" target="_blank" rel="noopener noreferrer">
-                                              He can't carry spandan
+                                              He can&apos;t carry spandan
                                             </a>
 							</span>
 							
