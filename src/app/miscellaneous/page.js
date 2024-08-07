@@ -55,9 +55,9 @@ export default function Miscellaneous() {
                                               
                                             </a>
 							</span>
-							/
+							
 							<span className="cursor-pointer text-blue-500 hover:text-blue-400">
-								<a href="/">solutions</a>
+								<a href="/"></a>
 							</span>
 							)
 						</li>
@@ -77,7 +77,7 @@ export default function Miscellaneous() {
 						<li>
 							Student: Whatever27 (
 							<span className="cursor-pointer text-blue-500 hover:text-blue-400">
-								<a href="https://www.op.gg/summoners/na/sAigroeg-NA1" target="_blank" rel="noopener noreferrer">
+								<a href="https://www.chess.com/member/27whatever" target="_blank" rel="noopener noreferrer">
                                               The goat of chess
                                             </a>
 							</span>
