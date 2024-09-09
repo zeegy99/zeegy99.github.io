@@ -31,63 +31,70 @@ export default function Miscellaneous() {
 					<ul className="list-disc pl-6">
 
 					<li>
-						My TFT Challenger Accounts:  (
+						Challenger TFT Accounts  (
 							<span className="cursor-pointer text-blue-500 hover:text-blue-400">
-								<a href="https://lolchess.gg/profile/na/Ttv%20Zeegy99-NA1/set11" target="_blank" rel="noopener noreferrer">
-                                              Challenger Set 6.5 Acct
+								<a href="https://lolchess.gg/profile/na/Zeegyboogydoog-NA1/set12" target="_blank" rel="noopener noreferrer">
+                                              Rank 50
                                             </a>
 							</span>
 							/
 							<span className="cursor-pointer text-blue-500 hover:text-blue-400">
-								<a href="https://lolchess.gg/profile/na/Zeegyboogydoog-NA1/set11">Zeegyboogydoog Account</a>
+								<a href="https://lolchess.gg/profile/na/Ttv%20Zeegy99-NA1/set12">Second Acct</a>
 							</span>
 							)
 						</li>
 
-						<span className="text-lg font-medium">Students (TFT) </span>
-						<ul className="list-disc pl-6"></ul>
-						<li>
-
-
-							Student: Andrew RANK: Masters(
+						
+					<li>
+						Twitch Stream  (
 							<span className="cursor-pointer text-blue-500 hover:text-blue-400">
-								<a href="https://tactics.tools/player/na/0pp0rtunities" target="_blank" rel="noopener noreferrer">
-                                              
+								<a href="https://www.twitch.tv/zeegy99" target="_blank" rel="noopener noreferrer">
+                                              Zeegy99
                                             </a>
 							</span>
 							
-							<span className="cursor-pointer text-blue-500 hover:text-blue-400">
-								<a href="/"></a>
-							</span>
 							)
 						</li>
+					
+					
 
-						<li>
-							Student: FOBERT THE MUNDO ABUSER (
-							<span className="cursor-pointer text-blue-500 hover:text-blue-400">
-								<a href="https://www.op.gg/summoners/na/sAigroeg-NA1" target="_blank" rel="noopener noreferrer">
-                                              He can&apos;t carry spandan
-                                            </a>
-							</span>
-							
-							
-							)
-						</li>
-
-						<li>
-							Student: Whatever27 (
-							<span className="cursor-pointer text-blue-500 hover:text-blue-400">
-								<a href="https://www.chess.com/member/27whatever" target="_blank" rel="noopener noreferrer">
-                                              The goat of chess
-                                            </a>
-							</span>
-							
-							
-							)
-						</li>
 					</ul>
 				</div>
 				<div className="fade-in"></div>
+				Hey if you found this, you're pretty cool
+
+				<div className="fade-in">
+					<span className="text-lg font-medium">Chess:</span>
+					<ul className="list-disc pl-6">
+
+					<li>
+						Chess.com Account  (
+							<span className="cursor-pointer text-blue-500 hover:text-blue-400">
+								<a href="https://www.chess.com/member/ygpei" target="_blank" rel="noopener noreferrer">
+                                              chess.com
+                                            </a>
+							</span>
+							
+							)
+						</li>
+
+					<li>
+						Lichess Account (
+							<span className="cursor-pointer text-blue-500 hover:text-blue-400">
+								<a href="https://lichess.org/@/ygpei" target="_blank" rel="noopener noreferrer">
+                                              Lichess
+                                            </a>
+							</span>
+							
+							)
+						</li>
+
+						
+					</ul>
+				</div>
+				<div className="fade-in"></div>
+
+
 			</div>
 		</div>
 	);

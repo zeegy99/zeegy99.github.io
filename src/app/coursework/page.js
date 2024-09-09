@@ -25,22 +25,35 @@ export default function Coursework() {
 					</div>
 				</div>
 				<div className="fade-in">
-					<span className="text-lg font-medium">Textbooks:</span>
+					<span className="text-lg font-medium">Classes / Self-Studied Textbooks:</span>
 					<ul className="list-disc pl-6">
+					
+
 						<li>
-							Analysis by Ross (
+							[Grad] Real Analysis by Folland: (
+							<span className="cursor-pointer text-blue-500 hover:text-blue-400">
+								<a href="/notes/Real_Variables.pdf">notes</a>
+							</span>
+							/
+							<span className="cursor-pointer text-blue-500 hover:text-blue-400">
+								<a href="/notes/511_hw.pdf">homework</a>
+							</span>
+							)
+						</li>
+						<li>
+							Real Analysis by Ross: (
 							<span className="cursor-pointer text-blue-500 hover:text-blue-400">
 								<a href="/notes/Analysis_Notes.pdf">notes</a>
 							</span>
 							/
 							<span className="cursor-pointer text-blue-500 hover:text-blue-400">
-								<a href="Analysis_hw.pdf">homework</a>
+								<a href="/notes/Analysis_hw.pdf">homework</a>
 							</span>
 							)
 						</li>
 
 						<li>
-							Stochastic Processes II by Shreeve (
+							[Grad] Stochastic Processes II by Shreeve: (
 							<span className="cursor-pointer text-blue-500 hover:text-blue-400">
 								<a href="/notes/Shreeve_Notes.pdf">notes</a>
 							</span>
@@ -48,6 +61,24 @@ export default function Coursework() {
 							<span className="cursor-pointer text-blue-500 hover:text-blue-400">
 								<a href="\">homework</a>
 							</span>
+							)
+						</li>
+
+						<li>
+							Abstract Algebra by Fraleigh: (
+							<span className="cursor-pointer text-blue-500 hover:text-blue-400">
+								<a href="/notes/Algebra_I.pdf">notes</a>
+							</span>
+						
+							)
+						</li>
+
+						<li>
+							Lab of Geometry: (
+							<span className="cursor-pointer text-blue-500 hover:text-blue-400">
+								<a href="/notes/Log__IU_.pdf">current work</a>
+							</span>
+						
 							)
 						</li>
 
@@ -77,15 +108,7 @@ export default function Coursework() {
 							)
 						</li>
 
-						<li>
-							Analysis (
-							<span className="cursor-pointer text-blue-500 hover:text-blue-400">
-								<a href="/notes/test.pdf">
-									Notes
-								</a>
-							</span>
-							)
-						</li>
+					
 
 
 

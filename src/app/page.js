@@ -44,7 +44,7 @@ export default function Home() {
 					</div>
 				</div>
 				<div className="text-md fade-in">
-					Hello! Im studying math and finance. Future TFT Worlds Winner. Andy is so bad at tft holy cow oh man
+					Hello! I am the future rank 1 + TFT Worlds winner, and I study math + finance. I primarily study probability and have gone through grad probability theory classes. 
 					<br />
 					Email:
 					<span
