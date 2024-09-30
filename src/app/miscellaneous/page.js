@@ -104,7 +104,7 @@ export default function Miscellaneous() {
 						(
 							<span className="cursor-pointer text-blue-500 hover:text-blue-400">
 								<a href="https://musiclab.chromeexperiments.com/Song-Maker/song/5500318625955840" target="_blank" rel="noopener noreferrer">
-                                              My "favorite" student ethans creation
+                                              My totally super favorite student Ethans creation
                                             </a>
 							</span>
 							
