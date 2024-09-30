@@ -56,16 +56,6 @@ export default function Miscellaneous() {
 							)
 						</li>
 
-					<li>
-						Twitch Stream  (
-							<span className="cursor-pointer text-blue-500 hover:text-blue-400">
-								<a href="https://www.twitch.tv/zeegy99" target="_blank" rel="noopener noreferrer">
-                                              Zeegy99
-                                            </a>
-							</span>
-							
-							)
-						</li>
 					
 					
 
