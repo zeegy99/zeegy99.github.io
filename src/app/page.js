@@ -45,7 +45,21 @@ export default function Home() {
 				</div>
 				<div className="text-md fade-in">
 					Hello! I am the future rank 1 + TFT Worlds winner, and I study math + finance. I primarily study probability and have gone through grad probability theory classes. 
+
 					<br />
+					<br />
+					My resume:  (
+							<span className="cursor-pointer text-blue-500 hover:text-blue-400">
+								<a href="/notes/Fred_Yuan_Resume.pdf" target="_blank" rel="noopener noreferrer">
+                                              Resume
+                                            </a>
+							</span>
+							
+							)
+					
+					<br />
+					<br />
+
 					Email:
 					<span
 						onClick={handleEmailClick}
