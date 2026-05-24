@@ -22,6 +22,13 @@ export default function Coursework() {
 						>
 							miscellaneous
 						</Link>
+
+						<Link
+							href="/projects"
+							className="text-gray-400 hover:text-black"
+						>
+							projects
+						</Link>
 					</div>
 				</div>
 				<div className="fade-in">
@@ -81,6 +88,19 @@ export default function Coursework() {
 						
 							)
 						</li>
+
+						<li>
+							Machine Learning 
+						</li>
+
+						<li>
+							Distributed Systems  
+						</li>
+
+						<li>
+							NLP 
+						</li>
+
 
 		
 					</ul>

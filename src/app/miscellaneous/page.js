@@ -24,6 +24,13 @@ export default function Miscellaneous() {
 						<Link href="/miscellaneous" className="">
 							miscellaneous
 						</Link>
+
+						<Link
+							href="/projects"
+							className="text-gray-400 hover:text-black"
+						>
+							projects
+						</Link>
 					</div>
 				</div>
 				<div className="fade-in">
@@ -62,7 +69,7 @@ export default function Miscellaneous() {
 					</ul>
 				</div>
 				<div className="fade-in"></div>
-				Hey if you found this, youre pretty cool
+				
 
 				<div className="fade-in">
 					<span className="text-lg font-medium">Chess:</span>

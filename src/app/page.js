@@ -41,24 +41,25 @@ export default function Home() {
 						>
 							miscellaneous
 						</Link>
+
+						<Link
+							href="/projects"
+							className="text-gray-400 hover:text-black"
+						>
+							projects
+						</Link>
 					</div>
 				</div>
 				<div className="text-md fade-in">
-					Hello! I am the future rank 1 + TFT Worlds winner, and I study math + finance. I primarily study probability and have gone through grad probability theory classes. 
-
+					Hello! I'm Fred, a senior at Indiana University studying Finance, Math & CS. I'm interested in NLP & Computer Vision and applications towards Finance. 
 					<br />
 					<br />
-					My resume:  (
-							<span className="cursor-pointer text-blue-500 hover:text-blue-400">
-								<a href="/notes/Fred_Yuan_Resume.pdf" target="_blank" rel="noopener noreferrer">
-                                              Resume
-                                            </a>
-							</span>
-							
-							)
-					
+					Last Summer I was a ML researcher looking at space-efficient algorithms bridging computer vision and natural language representations of items.
 					<br />
 					<br />
+					My hobbies include Chess, TFT, and Teaching math & Chess to people! 
+					<br/>
+					<br/>
 
 					Email:
 					<span
@@ -74,7 +75,7 @@ export default function Home() {
 								<span className="underline cursor-pointer">
 									[
 									<span className="underline text-blue-500">
-										fryuan@iu.edu
+										fred.yuan392@gmail.com
 									</span>
 									]
 								</span>
