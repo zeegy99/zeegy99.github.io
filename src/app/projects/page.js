@@ -64,16 +64,7 @@ export default function Projects() {
                 {label: "Link to Github", url: "https://github.com/zeegy99/ZeegyDiscordBot"}
                 ],
         },
-        {
-            title: "Discord Bot",
-            date: "March 2025",
-            tags: ["Python, Discord"],
-            description:
-                "Personalized Kpop Discord Bot that finds Kpop GIFS. !Karina",
-            links: [
-                {label: "Link to Github", url: "https://github.com/zeegy99/ZeegyDiscordBot"}
-                ],
-        },
+        
         
         
         
