@@ -51,7 +51,7 @@ export default function Home() {
 					</div>
 				</div>
 				<div className="text-md fade-in">
-					Hello! I'm Fred, a senior at Indiana University studying Finance, Math & CS. I'm interested in NLP & Computer Vision and applications towards Finance. 
+					Hello! Im Fred, a senior at Indiana University studying Finance, Math & CS. Im interested in NLP & Computer Vision and applications towards Finance. 
 					<br />
 					<br />
 					Last Summer I was a ML researcher looking at space-efficient algorithms bridging computer vision and natural language representations of items.
