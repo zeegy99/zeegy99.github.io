@@ -38,7 +38,7 @@ export default function Projects() {
             date: "March 2024",
             tags: ["Python, Webscraping"],
             description:
-                "Scraped Elon's Tweets to see if his tweets or sentiment of his tweets had impact on TSLA stock price",
+                "Scraped Elons Tweets to see if his tweets or sentiment of his tweets had impact on TSLA stock price",
             links: [
                 {label: "Link to Github", url: "https://github.com/zeegy99/Elon-SA/tree/master"}
                 ],
