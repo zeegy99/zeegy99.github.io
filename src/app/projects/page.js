@@ -17,7 +17,7 @@ export default function Projects() {
             date: "May 2026",
             tags: ["python, backtesting"],
             description:
-                "An addition to Momentum from J&T 1993, looking at MACD strategy (Moving Average Convergenec Divergence) to find During longer periods or periods of general growth, the sharpe and max drawdown significantly outperforms The s&p500. ",
+                "An addition to Momentum from J&T 1993, looking at MACD strategy to find During longer periods or periods of general growth, the sharpe and max drawdown significantly outperforms The s&p500. ",
             links: [
                 {label: "Link to Github", url: "https://github.com/zeegy99/Quant_Backtesting_Models/blob/main/MACD.ipynb"}
                 ],

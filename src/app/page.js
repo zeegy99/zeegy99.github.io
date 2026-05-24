@@ -60,6 +60,9 @@ export default function Home() {
 					My hobbies include Chess, TFT, and Teaching math & Chess to people! 
 					<br/>
 					<br/>
+					Leetcode: 338 solved, 187 mediums https://leetcode.com/u/zeegy99/
+					<br/>
+					<br/>
 
 					Email:
 					<span
